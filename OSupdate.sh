@@ -6,3 +6,4 @@ sudo apt dist-upgrade -y
 sudo apt autoremove -y
 sudo apt clean -y
 sudo apt autoclean -y
+sudo reboot
